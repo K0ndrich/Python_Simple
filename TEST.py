@@ -1,1 +1,1 @@
-print(123123126 % 10)
+print(False)
