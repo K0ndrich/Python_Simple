@@ -1,2 +1,1 @@
-a = int(input())
-print(a*a)
+print(123123126 % 10)
